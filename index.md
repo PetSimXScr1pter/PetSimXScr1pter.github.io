@@ -1,4 +1,4 @@
-Dosty Scripts | ALL Pastebin
+Andro Scripts | ALL Pastebin
 
 ## Pet Simulator X - Script 🟢
 [Pet Changer](https://discord.gg/S94NwtdgsZ)
